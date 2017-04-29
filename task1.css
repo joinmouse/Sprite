@@ -2,7 +2,6 @@
   width: 200px;
   height: 200px;
   background-image: url(./img/jirengu.png);
-  background-color: transparent;
   background-repeat: no-repeat
 }
 .sprite:hover{
