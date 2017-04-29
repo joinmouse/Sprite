@@ -1,9 +1,9 @@
 .sprite{
   width: 200px;
-  height: 200px;
+  height: 400px;
   background-image: url(./img/jirengu.png);
 }
 .sprite:hover{
-  background-position:0 200px;
+  background-position:0 -200px;
 }
 
