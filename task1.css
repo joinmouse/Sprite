@@ -1,0 +1,9 @@
+.sprite{
+  width: 200px;
+  height: 200px;
+  background-image: url(./img/jirengu.png);
+}
+.sprite:hover{
+  background-position:0 200px;
+}
+
